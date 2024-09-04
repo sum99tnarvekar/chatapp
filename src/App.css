@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+body {
+  background-image: url('./assets/bg-winx.jpg');
+  background-size: cover; /* Make sure the image covers the whole page */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-attachment: fixed; /* Ensure the image stays fixed during scroll */
+  background-position: center; /* Center the image */
+}
+
