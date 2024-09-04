@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chatapp/frontend/static/css/main.febd7eef.css",
+    "main.js": "/chatapp/frontend/static/js/main.cfbe5c24.js",
+    "static/js/453.8ab44547.chunk.js": "/chatapp/frontend/static/js/453.8ab44547.chunk.js",
+    "static/media/bg-winx.jpg": "/chatapp/frontend/static/media/bg-winx.86ca36e88a7c97a40b04.jpg",
+    "static/media/chat-logo.avif": "/chatapp/frontend/static/media/chat-logo.cefd54d81a608fb990f8.avif",
+    "index.html": "/chatapp/frontend/index.html",
+    "main.febd7eef.css.map": "/chatapp/frontend/static/css/main.febd7eef.css.map",
+    "main.cfbe5c24.js.map": "/chatapp/frontend/static/js/main.cfbe5c24.js.map",
+    "453.8ab44547.chunk.js.map": "/chatapp/frontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.febd7eef.css",
+    "static/js/main.cfbe5c24.js"
+  ]
+}
